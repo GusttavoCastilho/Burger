@@ -10,12 +10,8 @@
   </p>
 </div>
 
-<br />
 <h2>Proposal 🔥</h2>
 <img src=".github/cover.png" />
-
-<br />
-<br />
 
 <h2> Technologies 🚀 </h2>
 <li><a href="https://reactnative.dev/">React Native</a></li>
@@ -24,14 +20,10 @@
 <li><a href="https://styled-components.com/">Styled Components</a></li>
 <li><a href="https://moti.fyi/">Moti</a></li>
 
-<br />
-
 <h2> Software Requirements 🔍</h2>
 
 <li><a href="https://yarnpkg.com/">Install Yarn</a></li>
 <li><a href="https://developer.android.com/studio">Install Android Studio (optional)</a></li>
-
-<br />
 
 <h2> Installing and running the project 🎲</h2>
 
@@ -53,15 +45,13 @@ $ yarn android # caso seu dispositivo seja android
 $ yarn ios # caso seu dispositivo seja ios
 ```
 
-<br />
-
 <h2>How to contribute? 😍</h2>
 
 **Fork this repository**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd wongames
+$ git clone your-fork-url && cd Burger
 
 # Create a branch with your feature or bug fix
 $ git checkout -b my-branch
@@ -74,8 +64,6 @@ $ git push origin my-branch
 ```
 
 Delete your branch, if you want, when your pull request merge.
-
-<br />
 
 <h2>📝 License</h2>
 
