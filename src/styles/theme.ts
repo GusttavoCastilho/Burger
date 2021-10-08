@@ -2,7 +2,8 @@ export default {
     colors: {
         black: '#000000',
         gray: '#667C8A',
-        white: '#FFFFFF'
+        white: '#FFFFFF',
+        red: '#C8161D'
     },
     border: {
         radius: '5px'
